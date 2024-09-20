@@ -1,7 +1,7 @@
 # manhattan_properties_sale
 
 Tableau Dashboards Link: https://lnkd.in/eiXkuTCY
-
+https://github.com/VictorNYC/manhattan_properties_sale/blob/main/README.md
 Manhattan Properties For Sale Trends September 2024
 
 This week, the Manhattan real estate market uncovered trends for the upcoming season. 📉
